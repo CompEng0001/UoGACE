@@ -1,4 +1,4 @@
-#  Inforamtion
+#  Information
 
 - You need to create a GUi for the moonbugy features
 -  Camera feed, networking information, controls (manual or autonomous)
